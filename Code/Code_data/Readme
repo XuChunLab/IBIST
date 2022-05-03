@@ -1,8 +1,11 @@
-The data for the scripts.
+The data related to the custom scripts.
 
+(1) related to <ShockStimuli.m>
 Folder <Shock_data> is for the Calcium respones to the foot shock in the animals of the experimental group in Fig.4i.
 
-Folder <Fig5_result> is for the polar plot in Fig.5.
-
+(2) related to <Figure_4_openfield.m>
 File <openfield.mat> is for the open field analysis in the animals of the experimental group in Fig. 4e-f.
+
+(3) related to <Figure_5i_polarplot.py>
+Folder <Fig5_result> is for the polar plot in Fig.5.
 
