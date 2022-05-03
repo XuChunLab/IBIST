@@ -1,5 +1,12 @@
-Readme
+There are three types of figures created by custom scripts.
 
+(1) ShockStimuli.m
+This script plots the heatmap of Calcium responses to emotional stimuli. It can reproduce the heatmaps in Figure 4i.
 
+(2) Figure_4_openfield.m
+This script reproduce averaged Calcium traces and speeds of the experimental group in the Figure 4f.
 
-Reame
+(3) Figure_5i_polarplot.py
+<ploarplot>
+This script read the uploaded data and reproduce the figure plot in Figure 5i.
+
