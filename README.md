@@ -1,6 +1,6 @@
 # IBIST
 This webpage contains following information.
-1) Source data for IBIST publication in Nature Communication entitled "An intein-split transactivator for intersectional neural imaging and optogenetic manipulation"  (Chen & Zhang et al., 2022)
+1) Source data for IBIST publication in Nature Communication entitled "An intein-split transactivator for intersectional neural imaging and optogenetic manipulation"  (Chen & Zhang et al., 2022) https://www.nature.com/articles/s41467-022-31255-x 
 
 
 2) Plasmids can be obtained from Addgene (https://www.addgene.org/Chun_Xu/).
