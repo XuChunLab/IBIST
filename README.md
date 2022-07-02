@@ -7,5 +7,5 @@ This webpage contains following information.
 The ones mentioned in the preprint are here. https://www.addgene.org/browse/article/28216841/
 
 3) AAV order information.
-Some AAV vectors in this study are already available from Taitool Bioscience at Shanghai.
-The email to place the order: xudf@taitool.com
+Some AAV vectors in this study are already available from Taitool Bioscience (xudf@taitool.com) at Shanghai and Braincase at Wuhan.
+
